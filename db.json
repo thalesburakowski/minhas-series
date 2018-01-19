@@ -1,0 +1,65 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "Muito bom"
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "Say my name!"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "watching",
+      "genre": "Comédia",
+      "comments": "Spin-off breaking bad"
+    },
+    {
+      "id": 5,
+      "name": "Ronaldinho Gaucho 2018",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Dribre"
+    },
+    {
+      "id": 6,
+      "name": "Ronaldinho Gaucho 2017",
+      "status": "toWatch",
+      "genre": "Comédia",
+      "comments": "12321"
+    },
+    {
+      "id": 7,
+      "name": "RONALDINHO GAUCHO 2012",
+      "status": "watching",
+      "genre": "Comédia",
+      "comments": "keeu"
+    },
+    {
+      "id": 8,
+      "name": "Piodão",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "pio"
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
